@@ -6,3 +6,6 @@ Reach out to me if you do not agree and we will debate.
 
 # Creating the Agenda | Day 1
 Onboard the geeks and create the agenda.
+
+        30Days-Of-Python-4-ETLgeeks/IMG_2253_.jpg
+      
