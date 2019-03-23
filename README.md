@@ -17,4 +17,6 @@ Loops and Conditionals in Python
   Conditional execution (if statements)
   Repeated execution / looping (for statements)
 Functions and code reuse
+## Day1_Agenda
+![Day1_Agenda](Day1_Agenda.jpg)
 ![Screenshot](IMG_2253_.jpg)
