@@ -6,6 +6,15 @@ Reach out to me if you do not agree and we will debate.
 
 # Creating the Agenda | Day 1
 Onboard the geeks and create the agenda.
-
-        30Days-Of-Python-4-ETLgeeks/IMG_2253_.jpg
-      
+## Python Introduction
+## Jupyter-Notebook,JupyterLab, Spyder, PyQt or Idle - Or plain vanila txt and Python Console like Unix shellscripting
+## Basic Programming in Python
+## Data Types in Python
+## Sequence Types in Python
+## Collection and Mapping Types in Python
+## Loops and Conditionals in Python
+### Using variables in programs
+### Conditional execution (if statements)
+### Repeated execution / looping (for statements)
+## Functions and code reuse
+![Screenshot](IMG_2253_.jpg)
