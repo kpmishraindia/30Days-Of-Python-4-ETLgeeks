@@ -4,10 +4,10 @@ It is intended for teams who are migrating from traditonal ETL tools to Python o
 
 And Yes Informatica, Abinito , Datastage are now traditional and will soon be legacy in active warehouse landscapes.
 Reach out to me if you do not agree and we will debate.
+![Screenshot](IMG_2253_.jpg)
 
 # Creating the Agenda | Day 1
 Onboard the geeks and create the agenda.
 
 ## Day1_Agenda
 ![Day1_Agenda](Day1_Agenda.jpg)
-![Screenshot](IMG_2253_.jpg)
